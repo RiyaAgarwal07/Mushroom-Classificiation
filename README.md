@@ -83,10 +83,3 @@ We welcome contributions from the community! If you have any suggestions or impr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-We would like to thank the contributors of the original dataset and the open-source community for their invaluable resources and tools.
-
----
-
-Explore the project, experiment with the models, and contribute to enhancing mushroom classification using machine learning. Happy coding!
